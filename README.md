@@ -16,12 +16,8 @@
 </li>
 	<li>Donate directly to open source projects</li>
 
-### Contributors
 
-- [ Alok Mathur](https://github.com/alok27a)
-- [ Viraj Shukla](https://github.com/VirajS00)
 
----
 
 ```javascript
 if (youLiked) {
